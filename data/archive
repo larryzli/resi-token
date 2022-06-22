@@ -1,0 +1,273 @@
+{
+  "Common": {
+    "White": {
+      "value": "#ffffff",
+      "type": "color",
+      "description": "White"
+    },
+    "Black": {
+      "value": "#000000",
+      "type": "color"
+    }
+  },
+  "Gray": {
+    "Gray 200": {
+      "value": "#fafafa",
+      "type": "color",
+      "description": "🌝 Table Background / 🌚 Title Text"
+    },
+    "Gray 300": {
+      "value": "#f5f5f5",
+      "type": "color",
+      "description": "🌝 Background / 🌚  Primary Text"
+    },
+    "Gray 400": {
+      "value": "#e8e8e8",
+      "type": "color",
+      "description": "🌝 Dividers / 🌚  Secondary Text"
+    },
+    "Gray 500": {
+      "value": "#d9d9d9",
+      "type": "color",
+      "description": "🌝 Borders"
+    },
+    "Gray 600": {
+      "value": "#bfbfbf",
+      "type": "color",
+      "description": "🌝 Disabled, Placeholder Text / 🌚 Borders"
+    },
+    "Gray 700": {
+      "value": "#8c8c8c",
+      "type": "color",
+      "description": "🌝 Secondary Text, Labels, Captions / 🌚  Disabled Text, Placeholder Text"
+    },
+    "Gray 800": {
+      "value": "#595959",
+      "type": "color",
+      "description": "🌝 Primary Body Text / 🌚 Divider, Disabled Background"
+    },
+    "Gray 850": {
+      "value": "#1f1f1f",
+      "type": "color",
+      "description": "🌚 Only: Paper Background, Elevation"
+    },
+    "Gray 900": {
+      "value": "#121212",
+      "type": "color",
+      "description": "🌝 Title Text / 🌚 Table"
+    },
+    "Gray 1000": {
+      "value": "#000000",
+      "type": "color",
+      "description": "🌚 Only: Default Background"
+    }
+  },
+  "Navy": {
+    "Navy 100": {
+      "value": "#e5eff8",
+      "type": "color",
+      "description": "Hover"
+    },
+    "Navy 200": {
+      "value": "#c1cee1",
+      "type": "color",
+      "description": "Active"
+    },
+    "Navy 300": {
+      "value": "#91a5c0",
+      "type": "color"
+    },
+    "Navy 400": {
+      "value": "#7e94b3",
+      "type": "color"
+    },
+    "Navy 500": {
+      "value": "#4e74a6",
+      "type": "color",
+      "description": "Resi Navy"
+    },
+    "Navy 600": {
+      "value": "#41608b",
+      "type": "color",
+      "description": "Pressed"
+    }
+  },
+  "Red": {
+    "Red 100": {
+      "value": "#f3dfdc",
+      "type": "color",
+      "description": "lighter color, mostly used for banner messages and as a light background color"
+    },
+    "Red 200": {
+      "value": "#e4aea5",
+      "type": "color",
+      "description": "Used for destructive actions button hover state"
+    },
+    "Red 300": {
+      "value": "#d78678",
+      "type": "color",
+      "description": "Used for destruction action buttons active state"
+    },
+    "Red 400": {
+      "value": "#c95c4b",
+      "type": "color",
+      "description": "Used for icon and text colors primarily with error messaging"
+    },
+    "Red 500": {
+      "value": "#ca3c25",
+      "type": "color",
+      "description": "Intended for use in text or as a dark background with lighter text"
+    },
+    "Red 600": {
+      "value": "#ac3320",
+      "type": "color"
+    }
+  },
+  "Resi Red": {
+    "Resi Red 100": {
+      "value": "#ffdedf",
+      "type": "color"
+    },
+    "Resi Red 200": {
+      "value": "#ffbcbe",
+      "type": "color"
+    },
+    "Resi Red 300": {
+      "value": "#ff9b9e",
+      "type": "color"
+    },
+    "Resi Red 400": {
+      "value": "#ff797d",
+      "type": "color"
+    },
+    "Resi Red 500": {
+      "value": "#ff585d",
+      "type": "color"
+    },
+    "Resi Red 600": {
+      "value": "#d24d51",
+      "type": "color"
+    }
+  },
+  "Green": {
+    "Green 100": {
+      "value": "#d1eac8",
+      "type": "color",
+      "description": "Light green color"
+    },
+    "Green 200": {
+      "value": "#a3d591",
+      "type": "color"
+    },
+    "Green 300": {
+      "value": "#76c05a",
+      "type": "color"
+    },
+    "Green 400": {
+      "value": "#4aa728",
+      "type": "color"
+    },
+    "Green 500": {
+      "value": "#268f00",
+      "type": "color",
+      "description": "Positive Text"
+    },
+    "Green 600": {
+      "value": "#1f7500",
+      "type": "color"
+    }
+  },
+  "Orange": {
+    "Orange 100": {
+      "value": "#fae6d1",
+      "type": "color",
+      "description": "Light orange color"
+    },
+    "Orange 200": {
+      "value": "#f7c594",
+      "type": "color"
+    },
+    "Orange 300": {
+      "value": "#f3a85f",
+      "type": "color"
+    },
+    "Orange 400": {
+      "value": "#ef8b2a",
+      "type": "color"
+    },
+    "Orange 500": {
+      "value": "#d66900",
+      "type": "color"
+    },
+    "Orange 600": {
+      "value": "#b35800",
+      "type": "color"
+    }
+  },
+  "Purple": {
+    "Purple 100": {
+      "value": "#e7e0fc",
+      "type": "color"
+    },
+    "Purple 200": {
+      "value": "#cfc1f7",
+      "type": "color"
+    },
+    "Purple 300": {
+      "value": "#b7a3f4",
+      "type": "color"
+    },
+    "Purple 400": {
+      "value": "#a084f0",
+      "type": "color"
+    },
+    "Purple 500": {
+      "value": "#8865ed",
+      "type": "color"
+    },
+    "Purple 600": {
+      "value": "#6a4cc2",
+      "type": "color"
+    }
+  },
+  "Brand": {
+    "Resi Red": {
+      "value": "#ff585d",
+      "type": "color"
+    },
+    "Navy": {
+      "value": "#475d7a",
+      "type": "color"
+    },
+    "Deep Navy": {
+      "value": "#253746",
+      "type": "color"
+    },
+    "Light Gray": {
+      "value": "#e5e1e5",
+      "type": "color"
+    },
+    "Dark Gray": {
+      "value": "#434143",
+      "type": "color"
+    },
+    "Blue": {
+      "value": "#2f7699",
+      "type": "color"
+    }
+  },
+  "Blue": {
+    "Blue100": {
+      "value": "#cce8f4",
+      "type": "color"
+    },
+    "Blue300": {
+      "value": "#66bbdf",
+      "type": "color"
+    },
+    "Blue500": {
+      "value": "#008dca",
+      "type": "color"
+    }
+  }
+}
